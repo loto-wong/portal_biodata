@@ -30,6 +30,7 @@ In specific, the Ren lab examined RNA polymerase II (PolII), co-activator protei
 
 ### 1.2 [GSE76687](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE76687), Oocyte and Sperm 
 Zheng H, Huang B, Zhang B, Xiang Y et al. Resetting Epigenetic Memory by Reprogramming of Histone Modifications in Mammals. Mol Cell 2016 Sep 15;63(6):1066-79. PMID: 27635762
+
 |ID_SRR |ID_GSM |sampleName |cellType |seqType |GSE |
 |:----------|:----------|:----------|:-------------------|:-------|:--------|
 |SRR3105391 |GSM2041066 |H3K27Me3 |Mature sperm |SINGLE |GSE76687 |
@@ -43,6 +44,7 @@ Zheng H, Huang B, Zhang B, Xiang Y et al. Resetting Epigenetic Memory by Reprogr
 Calabrese JM, Sun W, Song L, Mugford JW et al. Site-specific silencing of regulatory elements as a mechanism of X inactivation. Cell 2012 Nov 21;151(5):951-63. [PMID: 23178118](https://www.ncbi.nlm.nih.gov/pubmed/23178118)
 
 ChIP_SC/0_acc/accInfo_tsc.txt
+
 |ID_SRR |ID_GSM |sampleName |cellType |seqType |GSE |
 |:---------|:---------|:-------------|:--------|:--------|:------|
 |SRR522274 |GSM967649 |H3K27me3_rep1 |TSC |GSE39406 |SINGLE |
