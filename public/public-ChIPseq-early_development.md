@@ -23,7 +23,8 @@ GSM2041083  epiblast E6.5 K27Me3 rep2
 ## ATAC, XW
 strain: C57BL/6N x DBA/2N
 [Wu J, Huang B, Chen H, Yin Q et al. The landscape of accessible chromatin in mammalian preimplantation embryos. Nature 2016 Jun 30;534(7609):652-7. PMID: 27309802](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE66581)
->|ID_SRR |ID_GSM |sampleName |cellType |seqType |GSE |
+
+|ID_SRR |ID_GSM |sampleName |cellType |seqType |GSE |
 |:----------|:----------|:----------|:-------------|:-------|:--------|
 |SRR2927010 |GSM1933921 |ATAC |early_2C_rep1 |PAIRED |GSE66581 |
 |SRR2927015 |GSM1933924 |ATAC |2C_rep1 |PAIRED |GSE66581 |
@@ -42,7 +43,8 @@ not use but can be reference
 ## H3K27me3&H3Kme4, GSR
 cannot split strain: B6D2F1 cross strain
 [Distinct features of H3K4me3 and H3K27me3 chromatin domains in pre-implantation embryos. Nature 2016 Sep 22;537(7621):558-562. PMID: 27626379](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE73952)
->|ID_SRR |ID_GSM |sampleName |cellType |seqType |GSE |
+
+|ID_SRR |ID_GSM |sampleName |cellType |seqType |GSE |
 |:----------|:----------|:-------------|:----------|:--------|:------|
 |SRR3208745 |GSM2082662 |H3K4me3_rep1 |MII_Oocyte |GSE73952 |PAIRED |
 |SRR3208746 |GSM2082663 |H3K4me3_rep2 |MII_Oocyte |GSE73952 |PAIRED |
@@ -85,7 +87,8 @@ https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE80810
 Borensztein M, Syx L, Ancelin K, Diabangouaya P et al. Xist-dependent imprinted X inactivation and the early developmental consequences of its failure. Nat Struct Mol Biol 2017 Mar;24(3):226-233. PMID: 28134930
 single-cells RNAseq from oocytes and hybred males and females pre-implantation embryos
 strain:  BC: C57BL/6J*Cast/Eij
->|ID_SRR |ID_GSM |sampleName |cellType |seqType |GSE |
+
+|ID_SRR |ID_GSM |sampleName |cellType |seqType |GSE |
 |:----------|:----------|:----------|:--------|:--------|:------|
 |SRR4833895 |GSM2371473 |RNAseq |Oocyte |GSE80810 |SINGLE |
 |SRR4833896 |GSM2371474 |RNAseq |Oocyte |GSE80810 |SINGLE |
