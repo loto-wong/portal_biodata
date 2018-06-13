@@ -1,7 +1,9 @@
 ## H3K27me3, XW
 [Resetting Epigenetic Memory by Reprogramming of Histone Modifications in Mammals, 2016 Wei Xie](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE76687)
 
-GSM2041066  PWK sperm K27Me3
+Raw fastq data were not used.
+
+>GSM2041066  PWK sperm K27Me3
 GSM2041067  growing oocyte 7days K27Me3
 GSM2041068  growing oocyte 14days K27Me3
 GSM2041069  GV 8weeks K27Me3
@@ -37,6 +39,32 @@ strain: C57BL/6N x DBA/2N
 
 ##DNaseI-seq
 
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM2183040
+
+|ID_SRR     |ID_GSM     |seqType |cellType          |seqType |GSE      |
+|:----------|:----------|:-------|:-----------------|:-------|:--------|
+|SRR3091087 |GSM2029791 |dnase   |1Cell_rep1        |SINGLE  |GSE76642 |
+|SRR3091088 |GSM2029792 |dnase   |1Cell_rep2        |SINGLE  |GSE76642 |
+|SRR3091089 |GSM2029793 |dnase   |2Cell_rep1        |SINGLE  |GSE76642 |
+|SRR3091090 |GSM2029794 |dnase   |2Cell_rep2        |SINGLE  |GSE76642 |
+|SRR3091091 |GSM2029795 |dnase   |4Cell_rep1        |SINGLE  |GSE76642 |
+|SRR3091092 |GSM2029796 |dnase   |4Cell_rep2        |SINGLE  |GSE76642 |
+|SRR3091093 |GSM2029797 |dnase   |8Cell_rep1        |SINGLE  |GSE76642 |
+|SRR3091094 |GSM2029798 |dnase   |8Cell_rep2        |SINGLE  |GSE76642 |
+|SRR3091095 |GSM2029799 |dnase   |Morula_rep1       |SINGLE  |GSE76642 |
+|SRR3091096 |GSM2029800 |dnase   |Morula_rep2       |SINGLE  |GSE76642 |
+|SRR3609193 |GSM2183029 |dnase   |GVOocyte_14d_rep1 |SINGLE  |GSE76642 |
+|SRR3609194 |GSM2183030 |dnase   |GVOocyte_14d_rep2 |SINGLE  |GSE76642 |
+|SRR3609195 |GSM2183031 |dnase   |Sperm_rep1        |SINGLE  |GSE76642 |
+|SRR3609196 |GSM2183032 |dnase   |Sperm_rep2        |SINGLE  |GSE76642 |
+|SRR3609197 |GSM2183033 |dnase   |Mat_PN3_rep1      |SINGLE  |GSE76642 |
+|SRR3609199 |GSM2183034 |dnase   |Mat_PN3_rep2      |SINGLE  |GSE76642 |
+|SRR3609200 |GSM2183035 |dnase   |Pat_PN3_rep1      |SINGLE  |GSE76642 |
+|SRR3609201 |GSM2183036 |dnase   |Pat_PN3_rep2      |SINGLE  |GSE76642 |
+|SRR3609202 |GSM2183037 |dnase   |Mat_PN5_rep1      |SINGLE  |GSE76642 |
+|SRR3609203 |GSM2183038 |dnase   |Mat_PN5_rep2      |SINGLE  |GSE76642 |
+|SRR3609204 |GSM2183039 |dnase   |Pat_PN5_rep1      |SINGLE  |GSE76642 |
+|SRR3609205 |GSM2183040 |dnase   |Pat_PN5_rep2      |SINGLE  |GSE76642 |
 
 ---
 not use but can be reference
