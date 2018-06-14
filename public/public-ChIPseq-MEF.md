@@ -9,7 +9,7 @@ date: 2018-05-31 15:22:40
 Luo Z, Lin C, Woodfin AR, Bartom ET et al. Regulation of the imprinted Dlk1-Dio3 locus by allele-specific enhancer activity. Genes Dev 2016 Jan 1;30(1):92-101. PMID: 26728555
 androgenic (AG) and parthenogenetic (PG)
 
-|ID_SRR |ID_GSM |seqType|cellType |seqType |GSE |
+|ID_SRR |ID_GSM |antiBody|cellType |antiBody |GSE |
 |:----------|:----------|:----------|:--------|:-------|:--------|
 |SRR1734474 |GSM1572292 |Pol2 |MEF_PG |SINGLE |GSE64489 |
 |SRR1734473 |GSM1572291 |Pol2 |MEF_AG |SINGLE |GSE64489 |
@@ -30,7 +30,7 @@ androgenic (AG) and parthenogenetic (PG)
 Huang K, Zhang X, Shi J, Yao M et al. Dynamically reorganized chromatin is the key for the reprogramming of somatic cells to pluripotent cells. Sci Rep 2015 Dec 7;5:17691. PMID: 26639176
 strain: __C57 x CBA__
 
-|ID_SRR |ID_GSM |seqType|cellType |seqType |GSE |
+|ID_SRR |ID_GSM |antiBody|cellType |antiBody |GSE |
 |:----------|:----------|:-------------|:--------|:-------|:--------|
 |SRR1555642 |GSM1483901 |H3K4me3_rep1 |MEF |SINGLE |GSE60627 |
 |SRR1555643 |GSM1483902 |H3K27me3_rep1 |MEF |SINGLE |GSE60627 |
@@ -46,7 +46,7 @@ strain: __C57 x CBA__
  strain: 129/C57 dams x CAST sires 
  tissue: E13.5 mouse embryo derived fibroblasts 
 
-|ID_SRR    |ID_GSM    |seqType   |cellType |seqType |GSE      |
+|ID_SRR    |ID_GSM    |antiBody   |cellType |antiBody |GSE      |
 |:----------|:----------|:-------------|:--------|:-------|:--------|
 |SRR1826252 |GSM1624389 |H3K9me2_rep1  |MEF      |SINGLE  |GSE66526 |
 |SRR1826253 |GSM1624389 |H3K9me2_rep1  |MEF      |SINGLE  |GSE66526 |
@@ -106,7 +106,7 @@ strain: __C57 x CBA__
  Examination of 9 different histone modifications, 1 histone variant, the histone H3, 10 transcription factors and 3epigenetic regulators in 4 cell types.  
  strain: 129SV/Jae/C57BL6J 
 
-|ID_SRR |ID_GSM |seqType|cellType |seqType |GSE |
+|ID_SRR |ID_GSM |antiBody|cellType |antiBody |GSE |
 |:----------|:----------|:-----------------|:--------|:--------|:------|
 |SRR5077629 |GSM2417081 |H3K4me2 |MEF |GSE90893 |SINGLE |
 |SRR5077633 |GSM2417085 |H3K4me1 |MEF |GSE90893 |SINGLE |
@@ -156,7 +156,7 @@ Genotype: 129SvJae x C57BL/6; Timepoint: Embryonic day 13.5
 strain could be split but depth is not enough.
 
 >
-|ID_SRR    |ID_GSM    |seqType|cellType |seqType |GSE      |
+|ID_SRR    |ID_GSM    |antiBody|cellType |antiBody |GSE      |
 |:---------|:---------|:----------|:--------|:-------|:--------|
 |SRR007431 |GSM307610 |H3K36me3   |MEF     	|SINGLE  |GSE12241 |
 |SRR007432 |GSM307610 |H3K36me3   |MEF     	|SINGLE  |GSE12241 |
@@ -176,7 +176,7 @@ The demethylase JMJD2C localizes to H3K4me3-positive transcription startsites an
 Mar;34(6):1031-45. [PMID: 24396064](https://www.ncbi.nlm.nih.gov/pubmed/24396064)
 strain: C57BL/6
 
-|ID_SRR    |ID_GSM    |seqType|cellType |seqType |GSE      |
+|ID_SRR    |ID_GSM    |antiBody|cellType |antiBody |GSE      |
 |:----------|:----------|:----------|:--------|:-------|:--------|
 |SRR1104951 |GSM1303764 |H3K36me3  |MEF      |SINGLE  |GSE53939 |
 |SRR1104949 |GSM1303762 |H3K9me3    |MEF      |SINGLE  |GSE53939 |
@@ -194,7 +194,7 @@ _GSM905455  SRS464746  MEF H3K4me3 ChIP-seq_
 _SAMN02197574 SRS464747 GSM905456  MEF H3K36me3 ChIP-seq_ 
 ```
 
-|ID_SRR    |ID_GSM    |seqType|cellType |seqType |GSE      |
+|ID_SRR    |ID_GSM    |antiBody|cellType |antiBody |GSE      |
 |:---------|:---------|:----------|:--------|:-------|:--------|
 |SRR944137 |GSM905457 |POL2_S5P  |MEF      |PAIRED  |GSE36905 |
 
@@ -208,7 +208,7 @@ http://sra.dbcls.jp/search/view/SRP028295 ; http://trace.ddbj.nig.ac.jp/DRASearc
 Yue F, Cheng Y, Breschi A, Vierstra J et al. A comparative encyclopedia of DNA elements in the mouse genome. Nature 2014 Nov 20;515(7527):355-64. PMID: 25409824
 BioProject  PRJNA215099
 
-|ID_SRR    |ID_GSM    |seqType|cellType |seqType |GSE      |
+|ID_SRR    |ID_GSM    |antiBody|cellType |antiBody |GSE      |
 |:---------|:---------|:----------|:--------|:-------|:--------|
 |SRR489745 |GSM918761 |Pol2      |MEF      |SINGLE  |GSE49847 |
 |SRR489746 |GSM918761 |Pol2      |MEF      |SINGLE  |GSE49847 |
