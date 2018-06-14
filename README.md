@@ -1,1 +1,1 @@
-# portal_biodata
+NGS data needed to analyze~~
