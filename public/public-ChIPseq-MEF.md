@@ -42,9 +42,9 @@ strain: __C57 x CBA__
 |SRR2095302 |GSM1816298 |H3_MNase_rep2 |MEF |SINGLE |GSE60627 |
 
 3. [GSE66526](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE66526)
-Setdb1-mediated H3K9 methylation is enriched on the inactive X and plays a role in its epigenetic silencing. Epigenetics Chromatin 2016 May 18;9:16. PMID: 27195021
-strain: 129/C57 dams x CAST sires
-tissue: E13.5 mouse embryo derived fibroblasts
+ Setdb1-mediated H3K9 methylation is enriched on the inactive X and plays a role in its epigenetic silencing. Epigenetics Chromatin 2016 May 18;9:16. PMID: 27195021 
+ strain: 129/C57 dams x CAST sires 
+ tissue: E13.5 mouse embryo derived fibroblasts 
 
 |ID_SRR    |ID_GSM    |seqType   |cellType |seqType |GSE      |
 |:----------|:----------|:-------------|:--------|:-------|:--------|
@@ -101,9 +101,10 @@ tissue: E13.5 mouse embryo derived fibroblasts
 ## Allelic information not availale
 
 4.  [GSE90893](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE90893)
-Chronis C, Fiziev P, Papp B, Butz S et al. Cooperative Binding of Transcription Factors Orchestrates Reprogramming. Cell 2017 Jan 26;168(3):442-459.e20. PMID: 28111071
-Examination of 9 different histone modifications, 1 histone variant, the histone H3, 10 transcription factors and 3epigenetic regulators in 4 cell types. 
-strain: 129SV/Jae/C57BL6J
+
+ Chronis C, Fiziev P, Papp B, Butz S et al. Cooperative Binding of Transcription Factors Orchestrates Reprogramming. Cell 2017 Jan 26;168(3):442-459.e20. PMID: 28111071 
+ Examination of 9 different histone modifications, 1 histone variant, the histone H3, 10 transcription factors and 3epigenetic regulators in 4 cell types.  
+ strain: 129SV/Jae/C57BL6J 
 
 |ID_SRR |ID_GSM |seqType|cellType |seqType |GSE |
 |:----------|:----------|:-----------------|:--------|:--------|:------|
@@ -183,21 +184,24 @@ strain: C57BL/6
 
 9. [GSE36905](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE36905)
 Pinter SF, Sadreyev RI, Yildirim E, Jeon Y et al. Spreading of X chromosome inactivation via a hierarchy of defined Polycomb stations. Genome Res 2012 Oct;22(10):1864-76. PMID: 22948768
-Binding of Polycomb repressive complex 2 (PRC2) and chromatin composition of the inactive X (Xi) before, during and after X chromosome inactivation reveal that spreading is driven by a combination of Xi-specific strong and moderate Ezh2 sites. Sequence context of these sites shows a moderate enrichment of SINEs and simple repeats. The general pattern of Ezh2 and H3K27me3 distribution over the chromosome reflect a graded concentration originating from strong Ezh2 sites, around which moderate sites are clustered, suggesting a hierarchy of Ezh2 sites govern spreading.
-BioProject  PRJNA157029
-SRA SRP028295
-Download from DDBJ, SRP028295
-http://sra.dbcls.jp/search/view/SRP028295
-http://trace.ddbj.nig.ac.jp/DRASearch/run?acc=SRR944137
+
+
+
 Following data were not found in SRA:
+```
 _GSM905454  SRS464745  MEF H3K27me3    ChIP-seq_
 _GSM905455  SRS464746  MEF H3K4me3 ChIP-seq_
 _SAMN02197574 SRS464747 GSM905456  MEF H3K36me3 ChIP-seq_ 
+```
 
 |ID_SRR    |ID_GSM    |seqType|cellType |seqType |GSE      |
 |:---------|:---------|:----------|:--------|:-------|:--------|
 |SRR944137 |GSM905457 |POL2_S5P  |MEF      |PAIRED  |GSE36905 |
 
+>Binding of Polycomb repressive complex 2 (PRC2) and chromatin composition of the inactive X (Xi) before, during and after X chromosome inactivation reveal that spreading is driven by a combination of Xi-specific strong and moderate Ezh2 sites. Sequence context of these sites shows a moderate enrichment of SINEs and simple repeats. The general pattern of Ezh2 and H3K27me3 distribution over the chromosome reflect a graded concentration originating from strong Ezh2 sites, around which moderate sites are clustered, suggesting a hierarchy of Ezh2 sites govern spreading.
+
+BioProject  PRJNA157029; SRA SRP028295
+http://sra.dbcls.jp/search/view/SRP028295 ; http://trace.ddbj.nig.ac.jp/DRASearch/run?acc=SRR944137
 
 
 10. [GSE49847](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE49847)
@@ -217,6 +221,8 @@ BioProject  PRJNA215099
 
 ## GSE18125 
 [Epigenetic regulation of Bmp2 and Smad6 in Ras-induced senescence]
+
+```
 GSM454429 MEFp2_H3K4me3 (ab8580, abcam, rabbit polyclonal),
 GSM454430 MEFp2_H3K27me3 (07142, Upstate, rabbit polyclonal)
-    
+``` 
