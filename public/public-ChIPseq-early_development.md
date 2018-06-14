@@ -1,4 +1,4 @@
-## H3K27me3, XW
+## H3K27me3, X.W.
 [Resetting Epigenetic Memory by Reprogramming of Histone Modifications in Mammals, 2016 Wei Xie](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE76687)
 
 Raw fastq data were not used.
@@ -22,11 +22,11 @@ GSM2041082  epiblast E6.5 K27Me3 rep1
 GSM2041083  epiblast E6.5 K27Me3 rep2
 
 
-## ATAC, XW
+## ATAC, X.W.
 strain: C57BL/6N x DBA/2N
 [Wu J, Huang B, Chen H, Yin Q et al. The landscape of accessible chromatin in mammalian preimplantation embryos. Nature 2016 Jun 30;534(7609):652-7. PMID: 27309802](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE66581)
 
-|ID_SRR |ID_GSM |sampleName |cellType |seqType |GSE |
+|ID_SRR |ID_GSM |seqType |cellType |seqType |GSE |
 |:----------|:----------|:----------|:-------------|:-------|:--------|
 |SRR2927010 |GSM1933921 |ATAC |early_2C_rep1 |PAIRED |GSE66581 |
 |SRR2927015 |GSM1933924 |ATAC |2C_rep1 |PAIRED |GSE66581 |
@@ -37,7 +37,7 @@ strain: C57BL/6N x DBA/2N
 |SRR2927021 |GSM1933928 |ATAC |8C_rep1 |PAIRED |GSE66581 |
 |SRR3401562 |GSM1933928 |ATAC |8C_rep1 |PAIRED |GSE66581 |
 
-##DNaseI-seq
+## DNaseI-seq
 
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM2183040
 
@@ -66,47 +66,6 @@ https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM2183040
 |SRR3609204 |GSM2183039 |dnase   |Pat_PN5_rep1      |SINGLE  |GSE76642 |
 |SRR3609205 |GSM2183040 |dnase   |Pat_PN5_rep2      |SINGLE  |GSE76642 |
 
----
-not use but can be reference
-## H3K27me3&H3Kme4, GSR
-cannot split strain: B6D2F1 cross strain
-[Distinct features of H3K4me3 and H3K27me3 chromatin domains in pre-implantation embryos. Nature 2016 Sep 22;537(7621):558-562. PMID: 27626379](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE73952)
-
-|ID_SRR |ID_GSM |sampleName |cellType |seqType |GSE |
-|:----------|:----------|:-------------|:----------|:--------|:------|
-|SRR3208745 |GSM2082662 |H3K4me3_rep1 |MII_Oocyte |GSE73952 |PAIRED |
-|SRR3208746 |GSM2082663 |H3K4me3_rep2 |MII_Oocyte |GSE73952 |PAIRED |
-|SRR3208749 |GSM2082666 |H3K27me3_rep1 |MII_Oocyte |GSE73952 |PAIRED |
-|SRR3208750 |GSM2082667 |H3K27me3_rep2 |MII_Oocyte |GSE73952 |PAIRED |
-|SRR3208753 |GSM2082670 |H3K4me3_rep1 |2cell |GSE73952 |PAIRED |
-|SRR3208754 |GSM2082671 |H3K4me3_rep2 |2cell |GSE73952 |PAIRED |
-|SRR3208756 |GSM2082673 |H3K27me3_rep1 |2cell |GSE73952 |PAIRED |
-|SRR3208757 |GSM2082674 |H3K27me3_rep2 |2cell |GSE73952 |PAIRED |
-|SRR3208760 |GSM2082677 |H3K4me3_rep1 |4cell |GSE73952 |PAIRED |
-|SRR3208761 |GSM2082678 |H3K4me3_rep2 |4cell |GSE73952 |PAIRED |
-|SRR3208763 |GSM2082680 |H3K27me3_rep1 |4cell |GSE73952 |PAIRED |
-|SRR3208764 |GSM2082681 |H3K27me3_rep2 |4cell |GSE73952 |PAIRED |
-|SRR3208767 |GSM2082684 |H3K4me3_rep1 |8cell |GSE73952 |PAIRED |
-|SRR3208768 |GSM2082685 |H3K4me3_rep2 |8cell |GSE73952 |PAIRED |
-|SRR3208769 |GSM2082686 |H3K27me3_rep1 |8cell |GSE73952 |PAIRED |
-|SRR3208770 |GSM2082687 |H3K27me3_rep2 |8cell |GSE73952 |PAIRED |
-|SRR3208776 |GSM2082693 |H3K27me3_rep1 |morula |GSE73952 |PAIRED |
-|SRR3208777 |GSM2082694 |H3K27me3_rep2 |morula |GSE73952 |PAIRED |
-|SRR3208773 |GSM2082690 |H3K4me3_rep1 |morula |GSE73952 |PAIRED |
-|SRR3208774 |GSM2082691 |H3K4me3_rep2 |morula |GSE73952 |PAIRED |
-|SRR3208781 |GSM2082698 |H3K27me3_rep1 |ICM |GSE73952 |PAIRED |
-|SRR3208782 |GSM2082699 |H3K27me3_rep2 |ICM |GSE73952 |PAIRED |
-|SRR3208779 |GSM2082696 |H3K4me3_rep1 |ICM |GSE73952 |PAIRED |
-|SRR3208780 |GSM2082697 |H3K4me3_rep2 |ICM |GSE73952 |PAIRED |
-|SRR3208786 |GSM2082703 |H3K27me3_rep1 |TE |GSE73952 |PAIRED |
-|SRR3208787 |GSM2082704 |H3K27me3_rep2 |TE |GSE73952 |PAIRED |
-|SRR3208784 |GSM2082701 |H3K4me3_rep1 |TE |GSE73952 |PAIRED |
-|SRR3208785 |GSM2082702 |H3K4me3_rep2 |TE |GSE73952 |PAIRED |
-|SRR3208799 |GSM2082716 |H3K27me3_rep1 |TSC |GSE73952 |PAIRED |
-|SRR3208800 |GSM2082717 |H3K27me3_rep2 |TSC |GSE73952 |PAIRED |
-|SRR3208796 |GSM2082713 |H3K4me3_rep1 |TSC |GSE73952 |PAIRED |
-|SRR3208797 |GSM2082714 |H3K4me3_rep2 |TSC |GSE73952 |PAIRED |
-
 
 ## RNAseq, Heard E
 
@@ -116,7 +75,7 @@ Borensztein M, Syx L, Ancelin K, Diabangouaya P et al. Xist-dependent imprinted 
 single-cells RNAseq from oocytes and hybred males and females pre-implantation embryos
 strain:  BC: C57BL/6J*Cast/Eij
 
-|ID_SRR |ID_GSM |sampleName |cellType |seqType |GSE |
+|ID_SRR |ID_GSM |seqType |cellType |seqType |GSE |
 |:----------|:----------|:----------|:--------|:--------|:------|
 |SRR4833895 |GSM2371473 |RNAseq |Oocyte |GSE80810 |SINGLE |
 |SRR4833896 |GSM2371474 |RNAseq |Oocyte |GSE80810 |SINGLE |
@@ -194,3 +153,47 @@ strain:  BC: C57BL/6J*Cast/Eij
 |SRR4834015 |GSM2371581 |RNAseq |64cell |GSE80810 |SINGLE |
 |SRR4834017 |GSM2371582 |RNAseq |64cell |GSE80810 |SINGLE |
 |SRR4834018 |GSM2371583 |RNAseq |64cell |GSE80810 |SINGLE |
+
+
+---
+not use but can be reference
+
+## H3K27me3&H3Kme4, GSR
+cannot split strain: B6D2F1 cross strain;
+[Distinct features of H3K4me3 and H3K27me3 chromatin domains in pre-implantation embryos. Nature 2016 Sep 22;537(7621):558-562. PMID: 27626379](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE73952)
+
+|ID_SRR |ID_GSM |seqType |cellType |seqType |GSE |
+|:----------|:----------|:-------------|:----------|:--------|:------|
+|SRR3208745 |GSM2082662 |H3K4me3_rep1 |MII_Oocyte |GSE73952 |PAIRED |
+|SRR3208746 |GSM2082663 |H3K4me3_rep2 |MII_Oocyte |GSE73952 |PAIRED |
+|SRR3208749 |GSM2082666 |H3K27me3_rep1 |MII_Oocyte |GSE73952 |PAIRED |
+|SRR3208750 |GSM2082667 |H3K27me3_rep2 |MII_Oocyte |GSE73952 |PAIRED |
+|SRR3208753 |GSM2082670 |H3K4me3_rep1 |2cell |GSE73952 |PAIRED |
+|SRR3208754 |GSM2082671 |H3K4me3_rep2 |2cell |GSE73952 |PAIRED |
+|SRR3208756 |GSM2082673 |H3K27me3_rep1 |2cell |GSE73952 |PAIRED |
+|SRR3208757 |GSM2082674 |H3K27me3_rep2 |2cell |GSE73952 |PAIRED |
+|SRR3208760 |GSM2082677 |H3K4me3_rep1 |4cell |GSE73952 |PAIRED |
+|SRR3208761 |GSM2082678 |H3K4me3_rep2 |4cell |GSE73952 |PAIRED |
+|SRR3208763 |GSM2082680 |H3K27me3_rep1 |4cell |GSE73952 |PAIRED |
+|SRR3208764 |GSM2082681 |H3K27me3_rep2 |4cell |GSE73952 |PAIRED |
+|SRR3208767 |GSM2082684 |H3K4me3_rep1 |8cell |GSE73952 |PAIRED |
+|SRR3208768 |GSM2082685 |H3K4me3_rep2 |8cell |GSE73952 |PAIRED |
+|SRR3208769 |GSM2082686 |H3K27me3_rep1 |8cell |GSE73952 |PAIRED |
+|SRR3208770 |GSM2082687 |H3K27me3_rep2 |8cell |GSE73952 |PAIRED |
+|SRR3208776 |GSM2082693 |H3K27me3_rep1 |morula |GSE73952 |PAIRED |
+|SRR3208777 |GSM2082694 |H3K27me3_rep2 |morula |GSE73952 |PAIRED |
+|SRR3208773 |GSM2082690 |H3K4me3_rep1 |morula |GSE73952 |PAIRED |
+|SRR3208774 |GSM2082691 |H3K4me3_rep2 |morula |GSE73952 |PAIRED |
+|SRR3208781 |GSM2082698 |H3K27me3_rep1 |ICM |GSE73952 |PAIRED |
+|SRR3208782 |GSM2082699 |H3K27me3_rep2 |ICM |GSE73952 |PAIRED |
+|SRR3208779 |GSM2082696 |H3K4me3_rep1 |ICM |GSE73952 |PAIRED |
+|SRR3208780 |GSM2082697 |H3K4me3_rep2 |ICM |GSE73952 |PAIRED |
+|SRR3208786 |GSM2082703 |H3K27me3_rep1 |TE |GSE73952 |PAIRED |
+|SRR3208787 |GSM2082704 |H3K27me3_rep2 |TE |GSE73952 |PAIRED |
+|SRR3208784 |GSM2082701 |H3K4me3_rep1 |TE |GSE73952 |PAIRED |
+|SRR3208785 |GSM2082702 |H3K4me3_rep2 |TE |GSE73952 |PAIRED |
+|SRR3208799 |GSM2082716 |H3K27me3_rep1 |TSC |GSE73952 |PAIRED |
+|SRR3208800 |GSM2082717 |H3K27me3_rep2 |TSC |GSE73952 |PAIRED |
+|SRR3208796 |GSM2082713 |H3K4me3_rep1 |TSC |GSE73952 |PAIRED |
+|SRR3208797 |GSM2082714 |H3K4me3_rep2 |TSC |GSE73952 |PAIRED |
+
